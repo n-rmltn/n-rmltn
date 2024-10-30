@@ -25,12 +25,12 @@ I’m always expanding my knowledge, and right now, I'm diving into:
 ## 🤝 Let's Connect
 I enjoy collaborating with like-minded individuals and sharing ideas. Feel free to reach out if you'd like to discuss.
 
-[🔗 LinkedIn](https://www.linkedin.com/in/normand-lubaton-2b043b316/) | [🌐 Personal Website or Blog](https://normandlubaton.dev) | [📧 Email](mailto:norm@normandlubaton.dev)
+[🔗 LinkedIn](https://www.linkedin.com/in/normand-lubaton-2b043b316/) | [🌐 Personal Website](https://normandlubaton.dev) | [📧 Email](mailto:norm@normandlubaton.dev)
 
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=n-rmltn&show_icons=true&theme=one_dark_pro)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=n-rmltn&show_icons=true&theme=one_dark_pro)
 
 ---
 
