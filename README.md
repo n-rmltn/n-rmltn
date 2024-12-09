@@ -9,18 +9,13 @@ Always down to learn something new, explore uncharted digital territories, and m
 ## 🌟 About Me
 I'm a full-stack developer with a deep interest in NextJS and Laravel. Whether it's optimizing a codebase, developing new features, or experimenting with emerging tech, I'm constantly driven by a curiosity for **what’s possible**.
 
-- 💼 Currently working on: A Tuition Registration Web Application
-- 🛠️ Languages and Tools: NextJS & Supabase
+- 💼 Currently working on: Internship projects 🤫
+- 🛠️ Languages and Tools: C# ASP.NET & React
 
 ## 🎧 Fun Fact
 
 
 When I'm not coding, you can probably find me behind the decks as a DJ! Music is my creative outlet, and I love blending beats. 🎶
-
-## 🌱 Currently Learning
-I’m always expanding my knowledge, and right now, I'm diving into:
-
-- C# ASP.NET - Currently dabbling more into developement with C# as it is still a widely used language / framework, especially where I am based at.
 
 ## 🤝 Let's Connect
 I enjoy collaborating with like-minded individuals and sharing ideas. Feel free to reach out if you'd like to discuss.
